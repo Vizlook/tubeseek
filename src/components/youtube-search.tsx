@@ -71,7 +71,7 @@ export const YouTubeSearch = () => {
           </h1>
           <p className="text-sm md:text-base mb-6 text-center">
             YouTube Search Engine - Search what's said and shown in videos.{" "}
-            <span className="font-semibold">30,000+</span> High-quality YouTube
+            <span className="font-semibold">50,000+</span> High-quality YouTube
             videos covering technology, healthcare, education, finance, and
             e-commerce, and growing rapidly. Powered by{" "}
             <Link
